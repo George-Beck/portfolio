@@ -1,6 +1,4 @@
-# Portfolio
-
-## Education
+### Education
 Junior @ The College of William and Mary
   Pursuing BS in Quantitative Economics, BBA in Finance
   
@@ -9,5 +7,5 @@ Summer Analyst @ Agecroft Partners
 
 Research Assistant @ AidData
 
-## Projects
+### Projects
 Sovereign Debt Stress Test
